@@ -214,7 +214,7 @@ def generate_code(doc, stage_code):
 # AUTHENTICATION SCREEN
 # ----------------------------------------------------
 if st.session_state.current_user is None:
-  st.title("🏗️ Enterprise EDMS - Construction & Data Centres")
+  st.title("🏗️ Enterprise EDMS - Construction & Data Centres- Created By Mangesh")
   st.markdown("### Select your portal to log in")
 
   col1, col2 = st.columns(2)
