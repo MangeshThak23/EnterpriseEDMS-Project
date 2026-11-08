@@ -3,7 +3,7 @@ import streamlit as st
 
 # Set Streamlit page configuration
 st.set_page_config(
-    page_title="Enterprise EDMS - Construction & Data Centres",
+    page_title="Enterprise EDMS - Construction & Data Centres- Created By Mangesh",
     page_icon="🏗️",
     layout="wide",
 )
