@@ -3,7 +3,7 @@ import streamlit as st
 
 # Set Streamlit page configuration
 st.set_page_config(
-    page_title="Enterprise EDMS - Construction & Data Centres- Created By Mangesh",
+    page_title="Enterprise EDMS - Construction & Data Centres",
     page_icon="🏗️",
     layout="wide",
 )
@@ -214,7 +214,7 @@ def generate_code(doc, stage_code):
 # AUTHENTICATION SCREEN
 # ----------------------------------------------------
 if st.session_state.current_user is None:
-  st.title("🏗️ Enterprise EDMS - Construction & Data Centres- Created By Mangesh")
+  st.title("🏗️ Enterprise EDMS - Construction & Data Centres")
   st.markdown("### Select your portal to log in")
 
   col1, col2 = st.columns(2)
